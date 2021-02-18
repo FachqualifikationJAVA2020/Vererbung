@@ -2,7 +2,7 @@ package b.klassen;
 
 public class Nicole_Point3D extends Nicole_Point2D{
 	
-	float z = 0.0f;
+	private float z = 0.0f;
 	
 	public Nicole_Point3D(float x, float y, float z) {
 		
