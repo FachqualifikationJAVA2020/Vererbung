@@ -9,7 +9,8 @@ public class Nicole_Point2D {
 		this.y = y;
 	}
 	
-	public Nicole_Point2D () { }
+	public Nicole_Point2D () { 
+	}
 	
 	public void setX (float x) {
 		this.x = x;
